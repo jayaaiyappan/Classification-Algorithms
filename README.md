@@ -1,4 +1,4 @@
-# DS_Session39_Project3
+# Classification Algorithms
 
 Problem Statement
 
